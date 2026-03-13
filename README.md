@@ -1,2 +1,3 @@
 # proyecto-streamlit
-practica
+practica IA
+
